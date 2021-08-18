@@ -1,0 +1,11 @@
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest.Test\bin\Debug\Yidosoft.Edu.Csharp.UnitTest.Test.dll
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest.Test\Debug\Yidosoft.Edu.Csharp.UnitTest.Test.csprojAssemblyReference.cache
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest.Test\Debug\Yidosoft.Edu.Csharp.UnitTest.Test.csproj.CoreCompileInputs.cache
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest.Test\Debug\Yidosoft.Edu.Csharp.UnitTest.Test.csproj.CopyComplete
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest.Test\Debug\Yidosoft.Edu.Csharp.UnitTest.Test.dll

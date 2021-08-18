@@ -1,0 +1,6 @@
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest\bin\Debug\Yidosoft.Edu.Csharp.UnitTest.exe.config
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\b\Yidosoft.Edu.Csharp.UnitTest\bin\Debug\Yidosoft.Edu.Csharp.UnitTest.exe
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest\Debug\Yidosoft.Edu.Csharp.UnitTest.csprojAssemblyReference.cache
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest\Debug\Yidosoft.Edu.Csharp.UnitTest.csproj.CoreCompileInputs.cache
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest\Debug\Yidosoft.Edu.Csharp.UnitTest.csproj.CopyComplete
+E:\TEMP\Nunit\Yidosoft.Edu.Csharp.UnitTest\.vs\Yidosoft.Edu.Csharp.UnitTest\v16\lut\0\i\Yidosoft.Edu.Csharp.UnitTest\Debug\Yidosoft.Edu.Csharp.UnitTest.exe
